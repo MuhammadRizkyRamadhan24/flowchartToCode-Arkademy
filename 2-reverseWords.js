@@ -7,7 +7,7 @@ function rw(str){
 
         console.log(join);
     }else{
-        console.log('salah');
+        console.log('Inputan salah');
     }
 }
 
